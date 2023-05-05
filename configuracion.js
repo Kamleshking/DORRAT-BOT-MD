@@ -10,21 +10,21 @@ import {en, es, pt} from "./lib/idiomas/total-idiomas.js";
 
 //cambia los números que sean propietarios
 global.owner = [
-  ["593959425714", "🔰 𝐃𝐈𝐄𝐆𝐎 - 𝐂𝐑𝐄𝐀𝐃𝐎𝐑 🔰", true],
-  ["51993138466", "🔰  𝐃𝐎𝐑𝐑𝐀𝐓∆𝐁𝐎𝐓 - 𝙲𝙾𝙻𝙻𝙰𝙱𝙾𝚁𝙰𝚃𝙾𝚁 1 🔰", true],
-  ["573184314110", "🔰 𝐃𝐎𝐑𝐑𝐀𝐓∆𝐁𝐎𝐓 - 𝙲𝙾𝙻𝙻𝙰𝙱𝙾𝚁𝙰𝚃𝙾𝚁 3 🔰", true],
-  ["50246028932", "🔰  𝐃𝐎𝐑𝐑𝐀𝐓∆𝐁𝐎𝐓 - 𝙲𝙾𝙻𝙻𝙰𝙱𝙾𝚁𝙰𝚃𝙾𝚁 4 🔰", true],
-  ["584125778026"],
-  ["595986674310"],
-  ["51936767238"],
-  ["50495625729"],
-  ["593968585383"],
-  ["5219996125657"],
-  ["51957041866"],
+  ["923402725227", "🔰 𝐃𝐈𝐄𝐆𝐎 - 𝐂𝐑𝐄𝐀𝐃𝐎𝐑 🔰", true],
+  ["923402725227", "🔰  𝐃𝐎𝐑𝐑𝐀𝐓∆𝐁𝐎𝐓 - 𝙲𝙾𝙻𝙻𝙰𝙱𝙾𝚁𝙰𝚃𝙾𝚁 1 🔰", true],
+  ["923402725227", "🔰 𝐃𝐎𝐑𝐑𝐀𝐓∆𝐁𝐎𝐓 - 𝙲𝙾𝙻𝙻𝙰𝙱𝙾𝚁𝙰𝚃𝙾𝚁 3 🔰", true],
+  ["923402725227", "🔰  𝐃𝐎𝐑𝐑𝐀𝐓∆𝐁𝐎𝐓 - 𝙲𝙾𝙻𝙻𝙰𝙱𝙾𝚁𝙰𝚃𝙾𝚁 4 🔰", true],
+  ["923402725227"],
+  ["923402725227"],
+  ["923402725227"],
+  ["923402725227"],
+  ["923402725227"],
+  ["923402725227"],
+  ["923402725227"],
 ];
-global.suittag = ["593959425714"];
-global.mods = ["595986674310"];
-global.prems = ["595986674310"];
+global.suittag = ["923402725227"];
+global.mods = ["923402725227"];
+global.prems = ["923402725227"];
 
 (global.APIs = {
   // API Prefix
@@ -86,10 +86,10 @@ global.openai_key = "sk-0";
 global.openai_org_id = "org-3";
 /* Consigue tu ID de organizacion en este enlace: https://platform.openai.com/account/org-settings */
 
-global.lenguajeGB = es;
+global.lenguajeGB = en;
 
 /* ______________________________________________ */
-global.creadorname = "𝐃𝐈𝐄𝐆𝐎-𝐎𝐅𝐂";
+global.creadorname = "KAMLESHKUMAR";
 global.creatorname = creadorname;
 global.library = "BAILEYS-MD";
 global.vs = "V10";
@@ -117,7 +117,7 @@ global.wait = "*[❕] CARGANDO POR FAVOR ESPERA...*";
 global.md = "https://chat.whatsapp.com/JuuuUaIQnnE3t4SWQenShg";
 global.dorramd = md;
 global.tarje = "Banesco";
-global.yt = "http://youtube.com/@diegogameplays82";
+global.yt = "king";
 global.youtube = yt;
 //Menu
 global.DorrafotoMenu = ["./galería/dorratmini.mp4"];
